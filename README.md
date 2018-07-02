@@ -6,4 +6,4 @@ This is more of a code example than a proper app, as I personally struggled with
 
 *If you build the app and it does not look like this, please ensure that you have  the correct version of gradle.The free weather api migth also cause some confustion, but if you are wondering why it does not update, its because the free api updates every 30min*
 
-![alt text](https://github.com/DanWaffle/Android-Weather-App/blob/master/Images/screen.jpg = 640x480 "Weather App")
+![alt text](https://github.com/DanWaffle/Android-Weather-App/blob/master/Images/screen.jpg?v=4&s=200 "Weather App")
