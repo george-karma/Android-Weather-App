@@ -2,7 +2,6 @@
 Small weather application that uses open weather map:
 [link to weather api](https://openweathermap.org/)
 
-Tutorial on how to make it:SOON™
 
 This is more of a code example than a proper app, as I personally struggled with parsing the JSON data, and so others might find it useful to have an example. Here is how the app should look. 
 
